@@ -1,1 +1,0 @@
-# CS-Certificate---game-in-Python
